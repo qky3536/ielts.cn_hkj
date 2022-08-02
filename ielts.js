@@ -59,7 +59,7 @@
 			test_setting();
 		});
 		$("#test_visa").click(function(event) {
-			product = "IELTSUKVI";
+			product = "IELTSUKVICDI";
 			test_setting();
 		});
 		$("#test_start").click(function(event) {
